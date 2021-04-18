@@ -48,7 +48,7 @@ $ yarn dev
 ## :gift: Others commands
 
 ```sh
-# Build (compiled to build/)
+# Build (compiled to dist/)
 $ npm run build
 
 # Run for production (needs npm run build first)
@@ -61,7 +61,7 @@ $ npm run typeorm migrate:run
 or using yarn
 
 ```sh
-# Build web (compiled to build/)
+# Build web (compiled to dist/)
 $ yarn build
 
 # Run for production (needs yarn build first)
