@@ -17,6 +17,7 @@
 - [Typescript](https://www.typescriptlang.org/)
 - [Babel](https://babeljs.io/)
 - [TypeORM](https://typeorm.io/#/)
+- [JWT](https://jwt.io/)
 
 ## :wrench: Configuration
 
