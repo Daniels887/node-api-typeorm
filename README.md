@@ -55,7 +55,7 @@ $ npm run build
 $ npm run start
 
 # Run migrations
-$ npm run typeorm migrate:run
+$ npm run typeorm migration:run
 ```
 
 or using yarn
@@ -68,5 +68,5 @@ $ yarn build
 $ yarn start
 
 # Run migrations
-$ yarn typeorm migrate:run
+$ yarn typeorm migration:run
 ```
